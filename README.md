@@ -6,6 +6,7 @@ Online Examination System in python django
 Number Shifting Game in C language 
 
 Amazon Clone 
+Amazon clone is pulled in Master Branch in Github project repo.
 
 Steganography (College Project).
 Steganography is a technique which is used send the information secretly in encoded format.
